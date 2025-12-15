@@ -12,10 +12,16 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://quiz-swart-two-18.vercel.app'),
   title: "VaniBlu | מבחן סקינקייר לעור צעיר",
   description: "גלי אם מוצרי הטיפוח שלך באמת מתאימים לעור שלך",
   icons: {
     icon: '/logo.svg',
+  },
+  openGraph: {
+    title: 'VaniBlu | מבחן סקינקייר לעור צעיר',
+    description: 'גלי אם מוצרי הטיפוח שלך באמת מתאימים לעור שלך',
+    images: ['/og-image.png'],
   },
 };
 
