@@ -120,7 +120,7 @@ export function ResultsScreen({ products, age, onContinue, onBack }: ResultsScre
             עדכון בחירה
           </Button>
           <Button onClick={onContinue} className="flex-[2]">
-            רוצה שגרה מותאמת
+            הצטרפי לקהילה
           </Button>
         </div>
       </div>
