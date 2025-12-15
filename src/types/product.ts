@@ -13,6 +13,7 @@ export interface Product {
   usageNote: string;
   status: ProductStatus;
   statusText: string;
+  image?: string;
 }
 
 export type ProductType = 'סבון' | 'קרם לחות' | 'סרום' | 'טונר' | 'מסיכה';

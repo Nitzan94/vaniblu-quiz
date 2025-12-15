@@ -1,5 +1,5 @@
 // ABOUTME: Selectable product card for product selection screen
-// ABOUTME: Shows product name with placeholder, multi-select support
+// ABOUTME: Shows product image and name with multi-select support
 
 'use client';
 
@@ -43,11 +43,19 @@ export function ProductCard({ product, selected, onToggle }: ProductCardProps) {
         }
       `}
     >
-      {/* Placeholder image area */}
-      <div className={`${bgColor} aspect-[4/3] flex items-center justify-center p-2 md:p-4`}>
-        <span className={`${textColor} text-xs md:text-sm font-medium text-center leading-tight opacity-80`}>
-          {product.type}
-        </span>
+      {/* Product image */}
+      <div className={`${bgColor} aspect-[4/3] flex items-center justify-center p-2 md:p-4 overflow-hidden`}>
+        {product.image ? (
+          <img
+            src={product.image}
+            alt={product.name}
+            className="w-full h-full object-contain"
+          />
+        ) : (
+          <span className={`${textColor} text-xs md:text-sm font-medium text-center leading-tight opacity-80`}>
+            {product.type}
+          </span>
+        )}
       </div>
 
       {/* Product name */}

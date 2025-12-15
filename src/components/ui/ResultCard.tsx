@@ -38,15 +38,27 @@ export function ResultCard({ product }: ResultCardProps) {
 
   return (
     <div className={`${config.bg} border-2 ${config.border} rounded-2xl p-3 md:p-4 space-y-2 md:space-y-3`}>
-      {/* Header with status */}
-      <div className="flex items-start justify-between gap-2">
-        <div className="flex-1 min-w-0">
-          <h3 className="text-[var(--purple)] font-bold text-base md:text-lg truncate">{product.name}</h3>
+      {/* Header with image and status */}
+      <div className="flex items-start gap-3">
+        {/* Product image */}
+        {product.image && (
+          <div className="w-16 h-16 md:w-20 md:h-20 shrink-0 bg-white rounded-xl overflow-hidden">
+            <img
+              src={product.image}
+              alt={product.name}
+              className="w-full h-full object-contain"
+            />
+          </div>
+        )}
+        <div className="flex-1 min-w-0 flex flex-col gap-1">
+          <div className="flex items-start justify-between gap-2">
+            <h3 className="text-[var(--purple)] font-bold text-base md:text-lg line-clamp-2">{product.name}</h3>
+            <div className={`flex items-center gap-1.5 ${config.bg} border ${config.border} px-2 py-1 rounded-full shrink-0`}>
+              <span className={`${config.textColor} font-bold text-sm`}>{config.icon}</span>
+              <span className={`${config.textColor} font-medium text-xs md:text-sm whitespace-nowrap`}>{config.label}</span>
+            </div>
+          </div>
           <p className="text-gray-500 text-xs md:text-sm">{product.type}</p>
-        </div>
-        <div className={`flex items-center gap-1.5 ${config.bg} border ${config.border} px-2 py-1 rounded-full shrink-0`}>
-          <span className={`${config.textColor} font-bold text-sm`}>{config.icon}</span>
-          <span className={`${config.textColor} font-medium text-xs md:text-sm whitespace-nowrap`}>{config.label}</span>
         </div>
       </div>
 

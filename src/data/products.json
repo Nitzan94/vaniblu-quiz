@@ -8,7 +8,8 @@
     "reason": "פורמולה עדינה ללא חומרים מגרים",
     "usageNote": "מתאים לשימוש יומי",
     "status": "approved",
-    "statusText": "✅ מתאים"
+    "statusText": "✅ מתאים",
+    "image": "/products/skin1004_cleanser.png"
   },
   {
     "id": "2",
@@ -19,7 +20,8 @@
     "reason": "שמן אתרי, אלכוהול וחומצה",
     "usageNote": "עלול לגרום לגירוי וייבוש",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/Anua_cleanser.png"
   },
   {
     "id": "3",
@@ -30,18 +32,20 @@
     "reason": "ללא בישום, ללא SLS",
     "usageNote": "מתאים גם לעור רגיש",
     "status": "approved",
-    "statusText": "✅ מתאים"
+    "statusText": "✅ מתאים",
+    "image": "/products/hydrating-facial-cleanser_front.png"
   },
   {
     "id": "4",
-    "name": "Kiehl’s Barrier Cleanser",
+    "name": "Kiehl's Barrier Cleanser",
     "type": "סבון",
     "rinseOrLeave": "Rinse-off",
     "problematicIngredients": "Sodium Laureth Sulfate (SLS)",
     "reason": "SLS מייבש ופוגע במחסום העור",
     "usageNote": "לא מומלץ לעור צעיר",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/kiehls_cleanser.png"
   },
   {
     "id": "5",
@@ -52,7 +56,8 @@
     "reason": "חומצה פעילה",
     "usageNote": "טיפול נקודתי בלבד באקנה",
     "status": "limited",
-    "statusText": "⚠️ לא אידיאלי לשימוש קבוע"
+    "statusText": "⚠️ לא אידיאלי לשימוש קבוע",
+    "image": "/products/cerave_cleanser_salicylic.png"
   },
   {
     "id": "6",
@@ -63,7 +68,8 @@
     "reason": "חומצה פעילה ובישום",
     "usageNote": "עלול לגרות עור צעיר",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/Saliup_promis.webp"
   },
   {
     "id": "7",
@@ -74,7 +80,8 @@
     "reason": "שמנים אתריים ובישום אלרגני",
     "usageNote": "רגישות גבוהה",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/PURIFYMe_cleanser.webp"
   },
   {
     "id": "8",
@@ -85,7 +92,8 @@
     "reason": "חומצות חזקות ושמן אתרי",
     "usageNote": "ניקוי אגרסיבי ומגביר רגישות לעור",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/somebyme_cleanser.png"
   },
   {
     "id": "9",
@@ -96,7 +104,8 @@
     "reason": "פילינג פיזי + SLS + בישום",
     "usageNote": "פוגע במחסום העור",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/careline_cleanser_exfoliating.png"
   },
   {
     "id": "10",
@@ -107,7 +116,8 @@
     "reason": "פורמולה תומכת מחסום עור",
     "usageNote": "מתאים לשימוש יומי",
     "status": "approved",
-    "statusText": "✅ מתאים"
+    "statusText": "✅ מתאים",
+    "image": "/products/cerave_cream.jpg"
   },
   {
     "id": "11",
@@ -118,7 +128,8 @@
     "reason": "עלול לאטום נקבוביות לעור שומני",
     "usageNote": "מתאים רק לעור פגוע זמנית",
     "status": "limited",
-    "statusText": "⚠️ לא אידיאלי לעור צעיר, יתאים במקרים של יובש."
+    "statusText": "⚠️ לא אידיאלי לעור צעיר, יתאים במקרים של יובש.",
+    "image": "/products/cicaplast_larochposay.jpg"
   },
   {
     "id": "12",
@@ -129,7 +140,8 @@
     "reason": "צבעים סינטטיים, רגישות פוטנציאלית",
     "usageNote": "עלול לגרות עור צעיר",
     "status": "limited",
-    "statusText": "⚠️ לא אידיאלי, ניתן להשתמש"
+    "statusText": "⚠️ לא אידיאלי, ניתן להשתמש",
+    "image": "/products/cliniq_cream.png"
   },
   {
     "id": "13",
@@ -140,7 +152,8 @@
     "reason": "רכיב אנטי־אקנה פעיל",
     "usageNote": "רק במצבי רגישות זמניים",
     "status": "limited",
-    "statusText": "⚠️ לא אידיאלי"
+    "statusText": "⚠️ לא אידיאלי",
+    "image": "/products/345cream.png"
   },
   {
     "id": "14",
@@ -151,7 +164,8 @@
     "reason": "רכיבים טיפוליים מתקדמים, עלול להיות קומדוגני",
     "usageNote": "עלול להכביד על עור צעיר שומני ומעורב",
     "status": "limited",
-    "statusText": "⚠️ לא אידיאלי, ניתן להשתמש"
+    "statusText": "⚠️ לא אידיאלי, ניתן להשתמש",
+    "image": "/products/klairs_cream.png"
   },
   {
     "id": "15",
@@ -162,7 +176,8 @@
     "reason": "פפטידים לא יועילו לעור צעיר, כבד יחסית",
     "usageNote": "עלול להכביד על עור צעיר שומני ומעורב",
     "status": "limited",
-    "statusText": "⚠️ לא אידיאלי, ניתן להשתמש"
+    "statusText": "⚠️ לא אידיאלי, ניתן להשתמש",
+    "image": "/products/rhode_butter.webp"
   },
   {
     "id": "16",
@@ -173,7 +188,8 @@
     "reason": "אלכוהול ובישום",
     "usageNote": "מסכן מחסום עור",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/skin_food_light.png"
   },
   {
     "id": "17",
@@ -184,7 +200,8 @@
     "reason": "בישום ורכיבים, שמנים אתריים ומסנני קרינה דור ישן",
     "usageNote": "לא מותאם לעור צעיר על אף שכתוב ״Young\"",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/careline_cream.png"
   },
   {
     "id": "18",
@@ -195,7 +212,8 @@
     "reason": "חומצות פעילות ושמן אתרי",
     "usageNote": "עלול לגרות",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/somebyme_cream.jpg"
   },
   {
     "id": "19",
@@ -206,7 +224,8 @@
     "reason": "שמן אתרי",
     "usageNote": "עלול לגרום לרגישות",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/fre_cream.png"
   },
   {
     "id": "20",
@@ -217,7 +236,8 @@
     "reason": "פורמולה חומצית בריכוז גבוה עלולה לגרום לגירוי, צריבה והחלשת מחסום העור הצעיר",
     "usageNote": "ויטמין C בריכוז גבוה אינו מומלץ לעור צעיר בשל סיכון לגירוי ולהחלשת מחסום העור. בנוסף מעלה רגישות לשמש",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/SKC_CEF_Allure_Packshot.jpg"
   },
   {
     "id": "21",
@@ -228,7 +248,8 @@
     "reason": "חומצה היאלורונית ולחותרים עדינים, ללא חומצות או רטינואידים",
     "usageNote": "סרום לחות מבוסס חומצה היאלורונית ומרכיבים עדינים, ללא חומצות עוצמתיות, מתאים בדרך כלל לעור צעיר.",
     "status": "limited",
-    "statusText": "✅ מאושר לעור צעיר"
+    "statusText": "✅ מאושר לעור צעיר",
+    "image": "/products/vichy_serum.jpg"
   },
   {
     "id": "22",
@@ -239,7 +260,8 @@
     "reason": "סרום לחות עדין; המשמרים בריכוזים רגולטוריים בדרך כלל נסבלים גם בעור צעיר",
     "usageNote": "סרום לחות עדין עם חומצה היאלורונית ופנתנול, ללא חומצות קילוף או רטינואידים – לרוב מתאים לעור צעיר.",
     "status": "limited",
-    "statusText": "✅ מאושר לעור צעיר"
+    "statusText": "✅ מאושר לעור צעיר",
+    "image": "/products/theordinary_hyaluronic_b5.png"
   },
   {
     "id": "23",
@@ -250,7 +272,8 @@
     "reason": "רטינואיד פעיל וחומצה פעילה עלולים לגרום לרגישות, קילוף ופגיעה במחסום העור הצעיר",
     "usageNote": "סרום עם רטינל נחשב פעיל מדי לעור צעיר ואינו מומלץ בשגרה.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/THEORDINARY_Retinal.jpg"
   },
   {
     "id": "24",
@@ -261,7 +284,8 @@
     "reason": "רכיב פעיל בעל פרופיל ביולוגי מורכב; בעור צעיר לא נחוץ ועלול להיות חזק מדי",
     "usageNote": "סרום מבוסס ריר חלזונות רכיב פעיל ועוצמתי שאינו נדרש לעור צעיר ולכן לא מומלץ ועלול לגרות",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/cosrx_serum_snail.png"
   },
   {
     "id": "25",
@@ -272,7 +296,8 @@
     "reason": "קומפלקס לחות עם ניאצינאמיד לרוב עדין, אך בריכוזים גבוהים עלול לגרום לאדמומיות בחלק מהעורות",
     "usageNote": "סרום לחות ושיקום עם חומצה היאלורונית וניאצינאמיד – מתאים לעור צעיר בשימוש זהיר ובהקשבה לתגובה.",
     "status": "limited",
-    "statusText": "✅/⚠ שימוש זהיר בעור צעיר"
+    "statusText": "✅/⚠ שימוש זהיר בעור צעיר",
+    "image": "/products/la-roche-posay_serum.png"
   },
   {
     "id": "26",
@@ -283,7 +308,8 @@
     "reason": "ויטמין c",
     "usageNote": "ויטמין C בריכוז גבוה אינו מומלץ לעור צעיר בשל סיכון לגירוי ולהחלשת מחסום העור. בנוסף מעלה רגישות לשמש",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/iconix_vita_c.png"
   },
   {
     "id": "27",
@@ -294,7 +320,8 @@
     "reason": "ויטמין c ושמנים אתריים ואלרגנים בניחוח מגבירים סיכון לרגישות וגירוי, במיוחד בעור צעיר",
     "usageNote": "סרום ויטמין C עם שמנים אתריים ובישום – אינו מומלץ לעור צעיר בשל סיכון מוגבר לרגישות.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/fre_c_serum.webp"
   },
   {
     "id": "28",
@@ -305,7 +332,8 @@
     "reason": "בישום סינתטי ותערובת שמנים עשויה לבוא עם אלרגנים בניחוח ולגרום לגירוי בעור צעיר, בנוסף ניאצינמיד בריכוז 5% עלול לגרות עור צעיר ולהעלות רגישות לשמש.",
     "usageNote": "סרום ניאצינאמיד עם בישום אינו מומלץ לעור צעיר",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/mangoserum_promis.png"
   },
   {
     "id": "29",
@@ -316,7 +344,8 @@
     "reason": "ריכוז גבוה של חומצות AHA ורכיבי פילינג פעילים – עלול לגרום לקילוף, צריבה ופגיעה במחסום העור",
     "usageNote": "סרום פילינג עם חומצות, פעיל מדי לעור צעיר ואינו מתאים לשימוש בשגרה.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/iconix_peeling.png"
   },
   {
     "id": "30",
@@ -327,7 +356,8 @@
     "reason": "BHA וניאצינמיד עלול להיות חזק לעור צעיר בשימוש יומיומי;",
     "usageNote": "סרום עם BHA תמציות אנטיבקטריאליות וניאצינמיד, מתאים יותר לשימוש נקודתי לאקנה, לא לשגרה יומיומית בעור צעיר.",
     "status": "limited",
-    "statusText": "⚠ שימוש נקודתי בלבד / לא שגרה יומיומית"
+    "statusText": "⚠ שימוש נקודתי בלבד / לא שגרה יומיומית",
+    "image": "/products/boj_serum1.png"
   },
   {
     "id": "31",
@@ -338,7 +368,8 @@
     "reason": "Alpha-Arbutin הוא מרכיב הבהרה פעיל שאינו נחוץ לרוב לעור צעיר וקשור לשינויי פיגמנטציה",
     "usageNote": "סרום הבהרה עם Alpha-Arbutin אינו מומלץ כשימוש קבוע בעור צעיר, מתאים יותר למצבי פיגמנטציה ייחודיים.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/boj_serum2.png"
   },
   {
     "id": "32",
@@ -349,7 +380,8 @@
     "reason": "קומפלקס הבהרה פעיל (ניאצינאמיד + TXA + נגזרת ויטמין C) מיועד לטיפול בכתמים, לא לשגרה בבנות צעירות",
     "usageNote": "סרום הבהרה לכתמים ופיגמנטציה מתאים יותר לשימוש טיפולי מוגבל מאשר כחלק משגרה יומית לעור צעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/skin1004_bright.jpg"
   },
   {
     "id": "33",
@@ -360,7 +392,8 @@
     "reason": "שמנים אתריים ואלרגנים בניחוח מעלים סיכון לגירוי, במיוחד בעור צעיר",
     "usageNote": "סרום יום עם שמנים אתריים ובישום אינו מומלץ לעור צעיר",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/fre_serum.png"
   },
   {
     "id": "34",
@@ -371,7 +404,8 @@
     "reason": "בישום ותערובת פעילים מורכבת, pdrn לא יועיל לעור צעיר",
     "usageNote": "סרום פפטידים עם בישום, עלול לגרות עור צעיר ולא מתאים לשימוש",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/pdrn_serum.jpg"
   },
   {
     "id": "35",
@@ -382,7 +416,8 @@
     "reason": "קומפלקס הבהרה פעיל מאוד בריכוזים גבוהים; מיועד לטיפול ממוקד בפיגמנטציה, לא לעור צעיר בשגרה",
     "usageNote": "סרום הבהרה חזק (ניאצינאמיד 10% + TXA + ארבוטין) נחשב פעיל מדי לשימוש יומיומי בעור צעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/anua_niacinamid10.png"
   },
   {
     "id": "36",
@@ -393,7 +428,8 @@
     "reason": "אלכוהול ייבשני ובישום עם אלרגנים בניחוח מעלים סיכון לגירוי ולפגיעה במחסום העור הצעיר",
     "usageNote": "סרום ויטמין C עם אלכוהול גבוה ובישום אינו מומלץ לעור צעיר בשל סיכון לגירוי ויובש.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים לעור צעיר"
+    "statusText": "❌ לא מתאים לעור צעיר",
+    "image": "/products/vitamin_c_serum_garn_img.png"
   },
   {
     "id": "37",
@@ -404,7 +440,8 @@
     "reason": "חומצה אזלאית בריכוז טיפולי ו-BHA עדין מתאימים יותר לטיפול נקודתי באקנה מאשר לשימוש קבוע בעור צעיר",
     "usageNote": "סרום עם 10% חומצה אזלאית יכול להתאים כטיפול זמני וממוקד באקנה, אך אינו מומלץ לשגרה יומיומית בעור צעיר.",
     "status": "limited",
-    "statusText": "⚠ אופציה טיפולית זמנית בלבד"
+    "statusText": "⚠ אופציה טיפולית זמנית בלבד",
+    "image": "/products/anua_azelaic_serum.png"
   },
   {
     "id": "38",
@@ -415,7 +452,8 @@
     "reason": "חומצה חזקה",
     "usageNote": "טונר חומצי בריכוז גבוה שאינו מתאים לעור צעיר או לשימוש יומיומי.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/theordinery_aha7_.png"
   },
   {
     "id": "39",
@@ -426,7 +464,8 @@
     "reason": "חומצה חזקה",
     "usageNote": "פילינג כימי פעיל המיועד לטיפול באקנה ולא לעור צעיר בשימוש שגרתי.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/paula_bha_toner.png"
   },
   {
     "id": "40",
@@ -437,7 +476,8 @@
     "reason": "אלכוהול גבוה",
     "usageNote": "מוצר מבוסס אלכוהול המייבש ועלול לפגוע במחסום העור הצעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/cliniq_water.jpg"
   },
   {
     "id": "41",
@@ -448,7 +488,8 @@
     "reason": "שילוב חומצות ושמן אתרי",
     "usageNote": "שילוב חומצות ושמן אתרי המעלה סיכון לגירוי בעור צעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/toner_somebyme.jpg"
   },
   {
     "id": "42",
@@ -459,7 +500,8 @@
     "reason": "רכיבי ניקוי במוצר שנשאר על הפנים",
     "usageNote": "טונר עם רכיבי ניקוי במוצר שאמור להישאר על הפנים, לא הבחירה הראשונה לעור צעיר עשוי להתאים מדי פעם לעור שמן, אך עלול לייבש עור רגיש",
     "status": "limited",
-    "statusText": "❌ מוגבל"
+    "statusText": "❌ מוגבל",
+    "image": "/products/boj_plum_toner.png"
   },
   {
     "id": "43",
@@ -470,7 +512,8 @@
     "reason": "",
     "usageNote": "מיועד להסרת איפור בלבד ולא כשלב טיפוח פעיל, חובה לשטוף עם סבון פנים לאחר השימוש.",
     "status": "limited",
-    "statusText": "✅ מוגבל"
+    "statusText": "✅ מוגבל",
+    "image": "/products/micelar_water_garnier.jpg"
   },
   {
     "id": "44",
@@ -481,7 +524,8 @@
     "reason": "אלכוהול גבוה, חומצה ובישום",
     "usageNote": "טונר מכווץ מבוסס אלכוהול וחומצה, אגרסיבי לעור צעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/la-roche-posay-effaclar-toner.png"
   },
   {
     "id": "45",
@@ -492,7 +536,8 @@
     "reason": "",
     "usageNote": "טונר לחותי מחזק מחסום עור ללא חומצות או רכיבי גירוי.",
     "status": "approved",
-    "statusText": "✅ מתאים"
+    "statusText": "✅ מתאים",
+    "image": "/products/glazing-milk_toner_rhode.png"
   },
   {
     "id": "46",
@@ -503,7 +548,8 @@
     "reason": "מכיל רכיבים ארומטיים ועלול לגרום לגירוי בעור צעיר.",
     "usageNote": "מכיל רכיבים ארומטיים ועלול לגרום לגירוי בעור צעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/tirtir_toner.png"
   },
   {
     "id": "47",
@@ -514,7 +560,8 @@
     "reason": "בישום וחומצה חזקה",
     "usageNote": "טונר פילינג חומצי עם בישום שאינו מתאים לעור צעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/pixi_toner.png"
   },
   {
     "id": "48",
@@ -525,7 +572,8 @@
     "reason": "",
     "usageNote": "מכילה מי פרחים ריחניים (לא שמן אתרי). לרוב נסבל, אך לא הכרחי לעור צעיר ורגיש",
     "status": "limited",
-    "statusText": "✅ מוגבל"
+    "statusText": "✅ מוגבל",
+    "image": "/products/biodance_mask.png"
   },
   {
     "id": "49",
@@ -536,7 +584,8 @@
     "reason": "חומצות חזקות, שמנים אתריים",
     "usageNote": "מסכת חימר ופילינג עם חומצות ושמנים אתריים העלולים לגרות עור צעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/DETOXME_mask_fre.png"
   },
   {
     "id": "50",
@@ -547,6 +596,7 @@
     "reason": "אלכוהול גבוה ובישום",
     "usageNote": "מסיכת בד עם אלכוהול, חומצה ובישום שאינה מתאימה לעור צעיר.",
     "status": "not_approved",
-    "statusText": "❌ לא מתאים"
+    "statusText": "❌ לא מתאים",
+    "image": "/products/garnier_mask.png"
   }
 ]
