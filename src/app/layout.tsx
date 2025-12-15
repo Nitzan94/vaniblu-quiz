@@ -14,6 +14,9 @@ const rubik = Rubik({
 export const metadata: Metadata = {
   title: "VaniBlu | מבחן סקינקייר לעור צעיר",
   description: "גלי אם מוצרי הטיפוח שלך באמת מתאימים לעור שלך",
+  icons: {
+    icon: '/logo.svg',
+  },
 };
 
 export default function RootLayout({
