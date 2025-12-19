@@ -3,6 +3,8 @@
 
 'use client';
 
+import { useEffect } from 'react';
+import { track } from '@vercel/analytics';
 import { Button } from '@/components/ui/Button';
 import { createShareLink } from '@/lib/whatsapp';
 import { Product } from '@/types/product';
@@ -15,6 +17,13 @@ interface CTAScreenProps {
 const WHATSAPP_GROUP_LINK = 'https://chat.whatsapp.com/HhsDPVQAWmM7UXShjXpjMY';
 
 export function CTAScreen({ age, selectedProducts }: CTAScreenProps) {
+  useEffect(() => {
+    track('quiz_completed', {
+      age,
+      productsCount: selectedProducts.length,
+    });
+  }, [age, selectedProducts.length]);
+
   const handleShare = () => {
     const url = typeof window !== 'undefined' ? window.location.href : 'https://vaniblu.co.il/quiz';
     window.open(createShareLink(url), '_blank');
